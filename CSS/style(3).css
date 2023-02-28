@@ -1,0 +1,18 @@
+input{
+width: 180px;
+height: 30pox;
+border:1px solid #7FCC0B;
+border-right: none;
+border-radius: 4px;
+}
+button {
+position: relative;
+right: 2px;
+width: 50px;
+height: 35px;
+font-size: 14px;
+color: white;
+backgrounf: #7FCC0B;
+border: 0;
+border-radius: 4px;
+}
